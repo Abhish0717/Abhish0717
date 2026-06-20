@@ -49,24 +49,28 @@
 
 # 📊 GitHub Statistics
 
-<div align="center">
+<!-- <div align="center">
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Abhish0717&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhish0717&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
-
+</div> -->
+<p align="center">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abhish0717&show_icons=true&theme=tokyonight" />
+</p>
 ---
 
 # 🔥 Contribution Streak
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhish0717&theme=tokyonight&hide_border=true"/>
 
-</div>
-
+</div> -->
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Abhish0717&theme=tokyonight" />
+</p>
 ---
 
 # 🚀 Featured Project
@@ -121,23 +125,10 @@ MVC Architecture • Design Patterns • Jasper Reports • Docker • Jenkins �
 
 ---
 
-# 🌐 Connect With Me
+# 🌐 Connect With Me,
 
-<div align="center">
-
-<a href="https://github.com/Abhish0717">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/abhishish-bhawsar-97781a206">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:abhibhawsar066@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
-</div>
+* LinkedIn: https://www.linkedin.com/in/abhishish-bhawsar-97781a206
+* Mailto: abhibhawsar066@gmail.com
 
 ---
 
