@@ -29,15 +29,13 @@
 
 # 👨‍💻 About Me
 
-* 🎓 Student & Java Developer
+* 🎓 Fresher & Java Developer
 * 🚀 Building **ORSProject-04**
 * ☕ Java Full Stack Development
 * 🐳 Learning **Docker, Jenkins & CI/CD**
 * 🛠️ Java • JSP • Servlet • Hibernate • MySQL • Maven
 * ⚙️ Docker • Jenkins • Git • GitHub • Bootstrap
 * 🎯 Goal: Full Stack Java + DevOps Engineer
-* 📫 **[abhibhawsar066@gmail.com](mailto:abhibhawsar066@gmail.com)**
-
 
 # 🛠️ Tech Stack
 
@@ -120,7 +118,7 @@ MVC Architecture • Design Patterns • Jasper Reports • Docker • Jenkins �
 # 🌐 Connect With Me,
 
 * LinkedIn: https://www.linkedin.com/in/abhishish-bhawsar-97781a206
-* Mailto: abhibhawsar066@gmail.com
+* 📫 **[abhibhawsar066@gmail.com](mailto:abhibhawsar066@gmail.com)**
 
 
 # ⚡ Fun Fact
